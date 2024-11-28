@@ -1,4 +1,4 @@
-# FutureIntern_FSD_02
+
 ## Employee Management System
 
 A simple employee management system that allows users to view, add, update, and delete employees. This system uses Node.js, Express, MySQL, and a frontend built with HTML, CSS, and JavaScript.

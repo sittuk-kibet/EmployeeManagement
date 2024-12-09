@@ -113,10 +113,3 @@ Update an employee's details
 Delete an employee
 
 ---
-
-## Example cURL Requests
-
-### Add a new employee:
-
-```bash
-curl -X POST http://localhost:4000/api/employees/add -H "Content-Type: application/json" -d '{"name":"John Doe","email":"john@example.com","position":"Developer","department":"IT"}'
